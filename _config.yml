@@ -16,11 +16,11 @@
 title: Joshua Fitch Project Website
 email: jfitch007@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! My name is Joshua Fitch and I am student at Purdue University passionate about space exploration, artificial intelligence, traveling, being outdoors, and learning!
+  Questions? Job Offers? Want to Connect? Just Email me or connect with me at the links to the left!
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+LinkedIn: https://www.linkedin.com/in/joshdfitch/
+github_username: Josh-Fitch
 
 repository: "nicolas-van/bootstrap-4-github-pages"
 
