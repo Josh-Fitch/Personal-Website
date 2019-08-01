@@ -7,25 +7,15 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Shortcuts
 
-###* Internships
+*### [Internships]()
 
+*### [Student Organizations]()
 
+*### [Personal Projects]()
 
-###* Student Organizations
+*### [Passions and Interests]()
 
-
-
-###* Personal Projects
-
-
-
-###* Passions and Interests
-
-
-
-###* Hobbies and More About Me
-
-
+*### [Hobbies and More About Me]()
 
 ## Connect With Me
 
