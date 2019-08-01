@@ -16,7 +16,7 @@
 title: Joshua Fitch Project Website
 email: jfitch007@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Questions? Job Offers? Want to Connect? Just Email me or connect with me at the links to the left!
+  Questions? Job Offers? Want to connect? Just use the links to the left!
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 LinkedIn: https://www.linkedin.com/in/joshdfitch/
@@ -30,7 +30,7 @@ plugins:
   - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
-header_pages:
+header_pages: 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
