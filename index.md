@@ -7,22 +7,27 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Shortcuts
 
-### Internships
-
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
-
-### Student Organizations
+###* Internships
 
 
-### Personal Projects
+
+###* Student Organizations
 
 
-### Passions and Interests
+
+###* Personal Projects
 
 
-### Hobbies and More About Me
+
+###* Passions and Interests
+
+
+
+###* Hobbies and More About Me
+
 
 
 ## Connect With Me
 
 * [LinkedIn Account](https://www.linkedin.com/in/joshdfitch/)
+* [GitHub Account](https://github.com/Josh-Fitch)
