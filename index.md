@@ -7,17 +7,19 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Shortcuts
 
-*### [Internships]()
+*[Internships]()
 
-*### [Student Organizations]()
+*[Student Organizations]()
 
-*### [Personal Projects]()
+*[Personal Projects]()
 
-*### [Passions and Interests]()
+*[Passions and Interests]()
 
-*### [Hobbies and More About Me]()
+*[Hobbies and More About Me]()
 
 ## Connect With Me
 
+* [Personal Email](jfitch007@outlook.com)
+* [School Email](fitchj@purdue.edu)
 * [LinkedIn Account](https://www.linkedin.com/in/joshdfitch/)
 * [GitHub Account](https://github.com/Josh-Fitch)
