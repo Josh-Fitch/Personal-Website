@@ -19,7 +19,7 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Connect With Me
 
-* Personal Email: [jfitch007@outlook.com]
-* School Email: [fitchj@purdue.edu]
+* Personal Email: [jfitch007@outlook.com](jfitch007@outlook.com)
+* School Email: [fitchj@purdue.edu](fitchj@purdue.edu)
 * [LinkedIn Account](https://www.linkedin.com/in/joshdfitch/)
 * [GitHub Account](https://github.com/Josh-Fitch)
