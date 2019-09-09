@@ -7,7 +7,7 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Shortcuts
 
-* [Who Is Joshua Fitch?](Pages/About Me)
+* [Who Is Joshua Fitch?](Pages/About_Me)
 
 * [Professional Experience](Pages/Experience)
 
