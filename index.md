@@ -13,7 +13,7 @@ A look into my projects, experiences, passions, and hobbies!
 
 * [Design Teams](Pages/Design_Teams)
 
-* [Projects](Pages/Personal_Projects)
+* [Personal Projects](Pages/Personal_Projects)
 
 * [Student Organizations](Pages/Student_Organizations)
 
