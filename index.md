@@ -9,11 +9,13 @@ A look into my projects, experiences, passions, and hobbies!
 
 * [Who Is Joshua Fitch?](Pages/About_Me)
 
-* [Professional Experience](Pages/Experience)
+* [Professional Experience](Pages/Professional_Experience)
 
-* [Projects](Pages/Projects)
+* [Design Teams](Pages/Design_Teams)
 
-* [Passions and Interests](Pages/Interests)
+* [Projects](Pages/Personal_Projects)
+
+* [Student Organizations](Pages/Student_Organizations)
 
 ## Connect With Me
 
