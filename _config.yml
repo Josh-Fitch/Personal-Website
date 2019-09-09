@@ -29,11 +29,11 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages: 
-  - About Me
-  - Professional Experience
-  - Design Teams
+  - About_Me
+  - Professional_Experience
+  - Design_Teams
   - Projects
-  - Student Organizations
+  - Student_Organizations
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
