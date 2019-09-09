@@ -18,19 +18,19 @@
           {%- endif -%}
         {% endfor -%}
         <li class="nav-item">
-          <a class="nav-link" href="{{ Pages/About_Me | About_Me }}">About Me</a> 
+          <a class="nav-link" href="{{ site.header_pages | About_Me }}">About Me</a> 
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ Pages/Professional_Experience | Professional_Experience }}">Professional Experience</a>
+          <a class="nav-link" href="{{ site.header_pages | Professional_Experience }}">Professional Experience</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ Pages/Design_Teams | Design_Teams }}">Design Teams</a>
+          <a class="nav-link" href="{{ site.header_pages | Design_Teams }}">Design Teams</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ Pages/Personal_Projects | Personal_Projects }}">Projects</a>
+          <a class="nav-link" href="{{ site.header_pages | Personal_Projects }}">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ Pages/Student_Organizations | Student_Organizations }}">Student Organizations</a>
+          <a class="nav-link" href="{{ site.header_pages | Student_Organizations }}">Student Organizations</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
