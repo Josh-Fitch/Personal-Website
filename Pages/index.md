@@ -7,15 +7,15 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Shortcuts
 
-* [Who Is Joshua Fitch?](Pages/About_Me)
+* [Who Is Joshua Fitch?](About_Me)
 
-* [Professional Experience](Pages/Professional_Experience)
+* [Professional Experience](Professional_Experience)
 
-* [Design Teams](Pages/Design_Teams)
+* [Design Teams](Design_Teams)
 
-* [Personal Projects](Pages/Personal_Projects)
+* [Personal Projects](Personal_Projects)
 
-* [Student Organizations](Pages/Student_Organizations)
+* [Student Organizations](Student_Organizations)
 
 ## Connect With Me
 
