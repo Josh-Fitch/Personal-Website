@@ -7,7 +7,7 @@ A look into my projects, experiences, passions, and hobbies!
 
 ## Shortcuts
 
-* [Internships]()
+* [Internships](<a href="Internships">Experience</a>)
 
 * [Student Organizations]()
 
