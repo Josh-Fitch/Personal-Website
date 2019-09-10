@@ -28,12 +28,16 @@ title: Professional Experience
   * Finally, in this position I co-authored a paper with my mentor and other professionals in my office looking at the potential for a crewed mission to the dwarf planet Ceres. My task for this paper was to create a pork-chop plot in MATLAB evaluating the ideal launch window and associated characteristic orbital energy. 
 
   * This internship took me out of my comfort zone and forced me to learn a variety of new skills, including programming in multiple languages, spacecraft design, mission architecture design, trajectory analysis, and even presentation skills. Overall, I had the incredible opportunity to explore Johnson Space Center and meet Astronauts, Flight Directors, and Engineers while contributing to NASA's goal of pushing the boundaries of space exploration.
+
 &nbsp;
+
 #### Javan Engineering | Electrical Engineering Intern
 ##### May 2018 - August 2018
 
   * At [Javan Engineering](http://www.javanengineering.com/) as a returning Intern I worked in the Electrical Engineering office. My primary contributions included reviewing and verifying 10 Safety Assurance Packages for high pressure vessel systems using quantitative risk analysis and fluid dynamics as part of a $2.2 million dollar contract. I additionally developed Electrical CAD models for conduit planning and face-plate design using AutoCAD and interpreted client RS Logix programs used in the control and automation of Industrial Plants. Finally, I researched and obtained technical information and drawings from over 30 vendors, clients, and manufacturers.
+
 &nbsp;
+
 #### Javan Engineering | Mechanical Engineering Intern
 ##### June 2017 - August 2017
 
