@@ -41,7 +41,7 @@ Participating in Purdue's [TracSat](https://engineering.purdue.edu/AAE/spotlight
 
   * Team Lead of the Electronics Division. Lead a team of 4 in developing an Arduino payload to gather altitude, velocity, GPS position, and magnetic field flux data for analysis. Designed, bread-boarded, coded, soldered, and tested the system. System operated successfully for entirety of 6 hour, 120,000 foot flight.
   
-See my [High Altitude Balloon GitHub Repository](https://github.com/Josh-Fitch/High-Altitude-Balloon) for the Flight Software used!
+  * See my [High Altitude Balloon GitHub Repository](https://github.com/Josh-Fitch/High-Altitude-Balloon) for the Flight Software used!
 
 &nbsp;
 
