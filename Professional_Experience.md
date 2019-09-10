@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Professional Experience
 ---
-
-### Professional Experience  
 
 #### NASA Ames Research Center | Satellite Systems Engineering Intern
 ##### June 2019 - August 2019
