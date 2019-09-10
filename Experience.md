@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 
-### Professional
+### Professional Experience  
 
 #### NASA Ames Research Center | Satellite Systems Engineering Intern
 ##### June 2019 - August 2019
@@ -14,7 +14,7 @@ One of my primary tasks involved calculating orbital debris collision probabilit
 
 Another major task was to evaluate potential problems with communication blockages from satellite appendages and the solar sail membrane. To address this issue, I modeled ACS3 in AGI [STK (Systems Tool Kit)](https://agi.com/products/satellite-design-and-operations) to determine the optimal patch antenna placement to minimize the issue and generate a corresponding link budget and time-in-view of ground station. This analysis was done using the AzEl Mask Tool to allow STK to interpret the satellite geometry when evaluating the ground track. 
 
-Additional major tasks included drafting an Interface Control Document to define specifications and standards for interfaces between all electrical hardware and software components of spacecraft payload, generating and baselining Level 2 and Level 3 requirements, and evaluating the ACS3 mission against NASA Requirements Compliance Matrices. All of these tasks provided experience in topics ranging from space traffic management, trajectory planning, Radio Frequency communications, requirements generation, documentation, and presentation skills.
+Additional major tasks included drafting an Interface Control Document to define specifications and standards for interfaces between all electrical hardware and software components of spacecraft payload, generating and baselining Level 2 and Level 3 requirements, and evaluating the ACS3 mission against NASA Requirements Compliance Matrices. All of these tasks provided experience in topics ranging from space traffic management, trajectory planning, Radio Frequency communications, requirements generation, documentation, and presentation skills.  
 
 #### NASA Johnson Space Center | Mission Design Software Engineering Intern
 ##### January 2019 - May 2019
@@ -38,18 +38,4 @@ At [Javan Engineering](http://www.javanengineering.com/) as a returning Intern I
 ##### June 2017 - August 2017
 
 My summer between high school and my freshman year at Purdue I interned with [Javan Engineering](http://www.javanengineering.com/), a local process-mechanical and electrical engineering firm for industrial and pharmaceutical plants. My primary contribution was creating a user-friendly mathematical model in Excel for high pressure vessels. This model allowed for input of height, width, substance level and vessel head style, and output the necessary safety precautions, including references to ASME and pressure relief systems. The creation of this excel sheet cut down calculation time by 95% and displayed results in deliverable format. This was my first real engineering experience and taught me all about the skills required to succeed in engineering.
-
-## Research
-
-### Space Flight Projects Laboratory | Aerodynamic Deorbit Experiment Undergraduate Researcher
-#### August 2019 - Present
-
-This semester I am working as an undergraduate researcher under Professor David Spencer, head of the [Space Flight Projects Laboratory](https://engineering.purdue.edu/SFPL). In this position I am assisting with the [Aerodynamic Deorbit Experiment]()https://engineering.purdue.edu/CubeSat/missions/ade, a mission demonstrating a deployable drag-sail device that could eventually be used to ensure satellites can de-orbit in an efficient time post-mission-success. 
-
-My specific tasks for this position include writing Flight Software in C using Ubuntu. The Flight Software I am speifically generating includes Inertial Measurement Unit (IMU) data acquisition and communications protocol between various spacecraft components and the ground stations. 
-
-### Dark Matters Research Lab | Data Analysis Undergraduate Researcher
-#### August 2018 - January 2019
-
-Over Fall 2018 Semester, I worked as an undergraduate researcher under Professor Rafael Lang, head of the [Dark Matters Lab](https://www.physics.purdue.edu/darkmatters/). In this position I assisted with data analysis from the [XENON Detector in Italy](https://science.purdue.edu/xenon1t/?cat=3). I worked with a group of 4 other undergraduates to develop python scripts in Jupyterlabs. These python scripts sorted, cleaned, and organized the data and then evaluated it for specific trends based on a variety of parameters that could be indicate dark matter collision events. 
 
