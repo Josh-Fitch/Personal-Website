@@ -11,7 +11,8 @@ title: Joshua Fitch's Home Page
 &nbsp;
 &nbsp;
   
-![Professional Portrait](pictures/NASA_Pic.jpg?raw=true "PersonalPicture")
+<img src="/pictures/NASA_Pic.jpg" alt="PersonalPicture"
+	title="Professional Portrait" width="150" height="100" />
 
 
 ## Connect With Me  
