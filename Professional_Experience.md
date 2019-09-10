@@ -12,8 +12,10 @@ title: Professional Experience
 
   * Another major task was to evaluate potential problems with communication blockages from satellite appendages and the solar sail membrane. To address this issue, I modeled ACS3 in AGI [STK (Systems Tool Kit)](https://agi.com/products/satellite-design-and-operations) to determine the optimal patch antenna placement to minimize the issue and generate a corresponding link budget and time-in-view of ground station. This analysis was done using the AzEl Mask Tool to allow STK to interpret the satellite geometry when evaluating the ground track. 
 
-  * Additional major tasks included drafting an Interface Control Document to define specifications and standards for interfaces between all electrical hardware and software components of spacecraft payload, generating and baselining Level 2 and Level 3 requirements, and evaluating the ACS3 mission against NASA Requirements Compliance Matrices. All of these tasks provided experience in topics ranging from space traffic management, trajectory planning, Radio Frequency communications, requirements generation, documentation, and presentation skills.  
+  * Additional major tasks included drafting an Interface Control Document to define specifications and standards for interfaces between all electrical hardware and software components of spacecraft payload, generating and baselining Level 2 and Level 3 requirements, and evaluating the ACS3 mission against NASA Requirements Compliance Matrices. All of these tasks provided experience in topics ranging from space traffic management, trajectory planning, Radio Frequency communications, requirements generation, documentation, and presentation skills.
+
 &nbsp;
+
 #### NASA Johnson Space Center | Mission Design Software Engineering Intern
 ##### January 2019 - May 2019
 
