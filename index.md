@@ -1,21 +1,9 @@
 ---
 layout: page
-title: Joshua Fitch's Personal Website
+title: Joshua Fitch's Home Page
 ---
 
-A look into my projects, experiences, passions, and hobbies!
-
-## Shortcuts
-
-* [Who Is Joshua Fitch?](About_Me)
-
-* [Professional Experience](Professional_Experience)
-
-* [Design Teams](Design_Teams)
-
-* [Personal Projects](Personal_Projects)
-
-* [Student Organizations](Student_Organizations)
+This website is meant as a place to learn more about Joshua Fitch and his experiences, clubs, interests, and projects! It is also a chance for him to practice his HTML and CSS. Enjoy!
 
 ## Connect With Me
 
