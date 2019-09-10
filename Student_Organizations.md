@@ -3,10 +3,10 @@ layout: page
 title: Student Organizations
 ---
 
-This page gives some insight into Joshua Fitch's life.
+## Sigmma Gamma Tau Aerospace Engineering Honors Society
 
-## Design/Project Teams
+  * As a member of [Sigmma Gamma Tau](https://engineering.purdue.edu/SGT/) and the educational outreach committee, I have assisted with programs such as [Space Day](https://engineering.purdue.edu/PurdueSpaceDay), outreach to the Lafayette community, and educational outreach events to middle schools and elementary schools.
 
-## Personal Projects
+## Exploratory Ambassadors
 
-## Organizations
+  * I initially came to Purdue as an Exploratory Studies student, not as a First-Year Engineer. This was one of the best things to happen to me, as it exposed me to all sorts of different people, majors, and opportunities. I enjoy giving back to the program and helping other students find what makes them excited.  
