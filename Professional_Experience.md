@@ -3,12 +3,9 @@ layout: page
 title: Professional Experience
 ---
 
-This page provides details about my past internship and research experiences.
 
-## Professional Experience
-
-### NASA Ames Research Center | Satellite Systems Engineering Intern
-#### June 2019 - August 2019
+#### NASA Ames Research Center | Satellite Systems Engineering Intern
+##### June 2019 - August 2019
 
 At Ames Research Center I worked as a systems engineer with the [Advanced Composites Solar Sail System (ACS3)](https://ntrs.nasa.gov/search.jsp?R=20190028916) project team. I operated as an assistant to the Mission Systems Engineer, and completed tasks on a weekly as-needed basis. 
 
@@ -18,10 +15,10 @@ Another major task was to evaluate potential problems with communication blockag
 
 Additional major tasks included drafting an Interface Control Document to define specifications and standards for interfaces between all electrical hardware and software components of spacecraft payload, generating and baselining Level 2 and Level 3 requirements, and evaluating the ACS3 mission against NASA Requirements Compliance Matrices. All of these tasks provided experience in topics ranging from space traffic management, trajectory planning, Radio Frequency communications, requirements generation, documentation, and presentation skills.
 
-### NASA Johnson Space Center | Mission Design Software Engineering Intern
-#### January 2019 - May 2019
+#### NASA Johnson Space Center | Mission Design Software Engineering Intern
+##### January 2019 - May 2019
 
-At Johnson Space Center I worked in the Exploration Mission Planning Office developing [BLAST (Beyond LEO Architecture Sizing Tool)](), a program used for spacecraft mass estimation for human-rated vehicles and mission architecture design. 
+At Johnson Space Center I worked in the Exploration Mission Planning Office developing BLAST (Beyond LEO Architecture Sizing Tool), a program used for spacecraft mass estimation for human-rated vehicles and mission architecture design. 
 
 My work included programming in C++ and utilizing the Qt GUI library to fix and improve BLAST by diagnosing bugs, implementing new user input options, and fixing logical sizing issues. This included modeling potential solutions to logical issues with BLAST by creating a MATLAB script to randomly generate and systematically evaluate hundreds of possible user input combinations. 
 
@@ -31,13 +28,13 @@ Finally, in this position I co-authored a paper with my mentor and other profess
 
 This internship took me out of my comfort zone and forced me to learn a variety of new skills, including programming in multiple languages, spacecraft design, mission architecture design, trajectory analysis, and even presentation skills. Overall, I had the incredible opportunity to explore Johnson Space Center and meet Astronauts, Flight Directors, and Engineers while contributing to NASA's goal of pushing the boundaries of space exploration.
 
-### Javan Engineering | Electrical Engineering Intern
-#### May 2018 - August 2018
+#### Javan Engineering | Electrical Engineering Intern
+##### May 2018 - August 2018
 
 At [Javan Engineering](http://www.javanengineering.com/) as a returning Intern I worked in the Electrical Engineering office. My primary contributions included reviewing and verifying 10 Safety Assurance Packages for high pressure vessel systems using quantitative risk analysis and fluid dynamics as part of a $2.2 million dollar contract. I additionally developed Electrical CAD models for conduit planning and face-plate design using AutoCAD and interpreted client RS Logix programs used in the control and automation of Industrial Plants. Finally, I researched and obtained technical information and drawings from over 30 vendors, clients, and manufacturers.
 
-### Javan Engineering | Mechanical Engineering Intern
-#### June 2017 - August 2017
+#### Javan Engineering | Mechanical Engineering Intern
+##### June 2017 - August 2017
 
 My summer between high school and my freshman year at Purdue I interned with [Javan Engineering](http://www.javanengineering.com/), a local process-mechanical and electrical engineering firm for industrial and pharmaceutical plants. My primary contribution was creating a user-friendly mathematical model in Excel for high pressure vessels. This model allowed for input of height, width, substance level and vessel head style, and output the necessary safety precautions, including references to ASME and pressure relief systems. The creation of this excel sheet cut down calculation time by 95% and displayed results in deliverable format. This was my first real engineering experience and taught me all about the skills required to succeed in engineering.
 
