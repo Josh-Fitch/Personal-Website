@@ -2,9 +2,8 @@
 layout: page
 title: Joshua Fitch's Home Page
 ---
-<p><img style="padding: 15px; float: right;" src="/pictures/NASA_Pic.jpg" alt="PersonalPicture"
-	title="Professional Portrait" width="325" height="400" /></p>
-<p style="margin-top: 20px;"> </p>
+<img style="padding: 0 5px; float: right;" src="/pictures/NASA_Pic.jpg" alt="PersonalPicture"
+	title="Professional Portrait" width="325" height="400" />
 &nbsp;
 ##### This website is meant as a place to learn more about Joshua Fitch and his experiences, projects, clubs, and interests!  
 &nbsp;
