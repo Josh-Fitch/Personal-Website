@@ -3,8 +3,8 @@ layout: page
 title: Research Experience
 ---
 
-#
-#
+##
+##
 #### Space Flight Projects Laboratory | Aerodynamic Deorbit Experiment
 ##### August 2019 - Present
 
@@ -12,7 +12,7 @@ This semester I am working as an undergraduate researcher under Professor David 
 
 My specific tasks for this position include writing Flight Software in C using Ubuntu. The Flight Software I am speifically generating includes Inertial Measurement Unit (IMU) data acquisition and communications protocol between various spacecraft components and the ground stations. 
 
-#
+##
 #### Dark Matters Research Lab | Data Analysis Undergraduate Researcher
 ##### August 2018 - January 2019
 
