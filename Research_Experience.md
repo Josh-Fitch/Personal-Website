@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Research Experience
+---
 
 ### Space Flight Projects Laboratory | Aerodynamic Deorbit Experiment Undergraduate Researcher
 #### August 2019 - Present
