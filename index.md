@@ -2,19 +2,14 @@
 layout: page
 title: Joshua Fitch's Home Page
 ---
-
+<img style="padding: 0 15px; float: right;" src="/pictures/NASA_Pic.jpg" alt="PersonalPicture"
+	title="Professional Portrait" width="325" height="400" />
 ##### This website is meant as a place to learn more about Joshua Fitch and his experiences, projects, clubs, and interests!  
 &nbsp;
 ##### It is also a chance for him to practice his HTML and CSS. Enjoy!  
 &nbsp;
 ##### “Peopling other worlds unifies nations and ethnic groups, binds the generations, and requires us to be both smart and wise. It liberates our nature and, in part, returns us to our beginnings.” – Carl Sagan, Cosmos  
 &nbsp;
-&nbsp;
-  
-<img style="padding: 0 15px; float: left;" src="/pictures/NASA_Pic.jpg" alt="PersonalPicture"
-	title="Professional Portrait" width="325" height="400" />
-
-
 ## Connect With Me  
 
 * [Personal Email](mailto:jfitch007@outlook.com)
