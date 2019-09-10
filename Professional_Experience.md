@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: Professional Experience
 ---
 
 This page provides details about my past internship and research experiences.
