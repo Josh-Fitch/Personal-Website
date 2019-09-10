@@ -5,7 +5,7 @@ title: Joshua Fitch's Home Page
 
 This website is meant as a place to learn more about Joshua Fitch and his experiences, projects, clubs, and interests! It is also a chance for him to practice his HTML and CSS. Enjoy!
 
-![](pictures/PersonalPicture.jpg?raw=true "PersonalPicture")
+![Personal Picture](pictures/PersonalPicture.jpg?raw=true "PersonalPicture")
 
 ## Connect With Me
 
