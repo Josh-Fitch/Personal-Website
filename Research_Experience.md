@@ -2,14 +2,14 @@
 layout: page
 title: Research Experience
 ---
-
+&nbsp;
 #### Space Flight Projects Laboratory | Aerodynamic Deorbit Experiment
 ##### August 2019 - Present
 
   * This semester I am working as an undergraduate researcher under Professor David Spencer, head of the [Space Flight Projects Laboratory](https://engineering.purdue.edu/SFPL). In this position I am assisting with the [Aerodynamic Deorbit Experiment]()https://engineering.purdue.edu/CubeSat/missions/ade, a mission demonstrating a deployable drag-sail device that could eventually be used to ensure satellites can de-orbit in an efficient time post-mission-success. 
 
   * My specific tasks for this position include writing Flight Software in C using Ubuntu. The Flight Software I am speifically generating includes Inertial Measurement Unit (IMU) data acquisition and communications protocol between various spacecraft components and the ground stations. 
-
+&nbsp;
 #### Dark Matters Research Lab | Data Analysis Undergraduate Researcher
 ##### August 2018 - January 2019
 
