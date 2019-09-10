@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Professional Experience
+title: Experience
 ---
 
+### Professional
 
 #### NASA Ames Research Center | Satellite Systems Engineering Intern
 ##### June 2019 - August 2019
@@ -38,7 +39,7 @@ At [Javan Engineering](http://www.javanengineering.com/) as a returning Intern I
 
 My summer between high school and my freshman year at Purdue I interned with [Javan Engineering](http://www.javanengineering.com/), a local process-mechanical and electrical engineering firm for industrial and pharmaceutical plants. My primary contribution was creating a user-friendly mathematical model in Excel for high pressure vessels. This model allowed for input of height, width, substance level and vessel head style, and output the necessary safety precautions, including references to ASME and pressure relief systems. The creation of this excel sheet cut down calculation time by 95% and displayed results in deliverable format. This was my first real engineering experience and taught me all about the skills required to succeed in engineering.
 
-## Research Experience
+## Research
 
 ### Space Flight Projects Laboratory | Aerodynamic Deorbit Experiment Undergraduate Researcher
 #### August 2019 - Present
